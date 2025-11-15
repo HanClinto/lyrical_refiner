@@ -1,0 +1,25 @@
+EXAMPLE 1: Perfect AABB Rhyme
+The cat sat on the mat
+The rat wore a fancy hat
+The dog ran through the fog
+The hog jumped like a frog
+
+EXAMPLE 2: Strong Alliteration
+Peter Piper picked a peck of pickled peppers
+A peck of pickled peppers Peter Piper picked
+
+EXAMPLE 3: Internal Rhyme
+I'm drastically plastic and enthusiastic
+My tactics are fantastic and bombastic
+
+EXAMPLE 4: Shakespeare's Sonnet 18 (first quatrain)
+Shall I compare thee to a summer's day
+Thou art more lovely and more temperate
+Rough winds do shake the darling buds of May
+And summer's lease hath all too short a date
+
+EXAMPLE 5: Mosaic Rhyme (Eminem - Lose Yourself)
+His palms are sweaty, knees weak, arms are heavy
+There's vomit on his sweater already, mom's spaghetti
+He's nervous, but on the surface he looks calm and ready
+To drop bombs, but he keeps on forgetting

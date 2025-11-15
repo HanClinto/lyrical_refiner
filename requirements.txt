@@ -1,2 +1,1 @@
-# Core dependencies for lyrical_refiner
-pronouncing>=0.2.0  # For rhyme detection using CMU Pronouncing Dictionary
+pronouncing>=0.2.0
