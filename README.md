@@ -34,17 +34,3 @@ python3 -m heuristics.alliteration < input.txt
 ```bash
 $ echo "Peter Piper picked a peck of pickled peppers" | python3 evaluate_poetry.py
 
-============================================================
-POETIC EVALUATION RESULTS
-============================================================
-End Rhyme...............................     0.00
-Internal Rhyme..........................    31.25
-Mosaic Rhyme............................   175.00
-Syllable Meter..........................    70.00
-Alliteration............................    87.50
-------------------------------------------------------------
-Overall Average.........................    72.75
-============================================================
-```
-
-See [heuristics/README.md](heuristics/README.md) for detailed documentation.
